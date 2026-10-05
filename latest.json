@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.2.0",
-  "name": "Night Motel 0.2.0",
+  "tag_name": "v0.2.1",
+  "name": "Night Motel 0.2.1",
   "draft": false,
   "prerelease": false,
-  "published_at": "2026-10-04T22:23:35Z",
-  "body": "The first five nights now tell a story: an opening, a scene at the start and end of each night, and a new ending.\nThe game now updates itself from the title screen (Settings > Check for updates).\n\nsha256: 09db0e10f10575620f891148cae8dcbd798255d5df74780661174532b26d67b0",
+  "published_at": "2026-10-05T16:18:02Z",
+  "body": "The game is now called Stayover, with a new title screen and sign.\nStory subtitles now say who is speaking, and whether it is a phone or the radio.\nEach night opens with its number and a one-line recap of the night before.\nThe briefing shows the night desk's note, with your own notes from earlier nights.\nNights are called Night 1 to Night 5 everywhere.\n\nsha256: de15c6459f86b24276dd008f6024d08ade383ade400235fb7bdfe06c80c7a756",
   "assets": [
     {
-      "name": "NightMotel-Setup-0.2.0.exe",
-      "size": 31441524,
-      "digest": "sha256:09db0e10f10575620f891148cae8dcbd798255d5df74780661174532b26d67b0",
-      "browser_download_url": "https://raw.githubusercontent.com/Veyric89/night-motel-releases/main/NightMotel-Setup-0.2.0.exe"
+      "name": "NightMotel-Setup-0.2.1.exe",
+      "size": 31453606,
+      "digest": "sha256:de15c6459f86b24276dd008f6024d08ade383ade400235fb7bdfe06c80c7a756",
+      "browser_download_url": "https://raw.githubusercontent.com/Veyric89/night-motel-releases/main/NightMotel-Setup-0.2.1.exe"
     }
   ]
 }
